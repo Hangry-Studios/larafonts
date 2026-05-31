@@ -1,12 +1,13 @@
 {
   "repo_name": "larafonts",
   "repo_author": "Fitzy",
-  "repo_icon": "https://raw.githubusercontent.com/hangry-studios/larafonts/main/emojis/icon.png",
+  "repo_icon": "https://raw.githubusercontent.com/Hangry-Studios/larafonts/main/emojis/icon.png",
   "fonts": [
     {
       "name": "Bloody Terror",
-      "url": "https://raw.githubusercontent.com/hangry-studios/larafonts/main/fonts/bloody-terror.ttf",
+      "url": "https://raw.githubusercontent.com/Hangry-Studios/larafonts/main/fonts/bloody-terror.ttf",
       "format": "truetype"
     }
-  ]
+  ],
+  "emojis": []
 }
